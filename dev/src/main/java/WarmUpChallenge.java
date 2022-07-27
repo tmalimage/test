@@ -5,7 +5,8 @@ public class WarmUpChallenge {
 
     public static void main(String[] args) {
 
-        int [] sortedArray = {5, 10, 15, 20, 25};
+        //Find the missing number
+        int [] array = { 10, 4, 6, 3, 8, 2, 5, 9, 1};
     }
 
 }
